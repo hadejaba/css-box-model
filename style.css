@@ -1,0 +1,36 @@
+body {
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+background-color: lightgrey;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #2A2A2A ;
+}
+
+.pst
+{
+    width: 200px;
+    padding: 20px;
+    background-color: #FF915A;
+    border: 1px solid black;
+}
+
+.desc {
+    width: 70%;
+    margin: 0 auto 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    border: 1px solid black;
+}
+
+footer {
+margin-top: 100px;
+margin-left: 45%;
+  font-size:10px;
+  position: fixed;
+}
