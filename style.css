@@ -12,7 +12,8 @@ h1 {
 
 .pst
 {
-    width: 200px;
+    width: 250px;
+height: 200px;
     padding: 20px;
     background-color: #FF915A;
     border: 1px solid black;
